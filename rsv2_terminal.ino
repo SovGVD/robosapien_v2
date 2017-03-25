@@ -2,6 +2,7 @@ int IRledPin =  13;    // IR LED connected to digital pin 13
 String Serial_data = "";
 
 // Robosapien v2 IR codes http://www.aibohack.com/robosap/ir_codes_v2.htm
+// some parts of the code from https://learn.adafruit.com/ir-sensor/using-an-ir-sensor
 // waste memory, but useful
 
 
